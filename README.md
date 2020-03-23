@@ -18,6 +18,7 @@ String
 
 
 Number
+
 8 kyu https://www.codewars.com/kata/even-or-odd
 
 8 kyu https://www.codewars.com/kata/century-from-year
@@ -32,6 +33,7 @@ Number
 
 
 Array
+
 8 kyu https://www.codewars.com/kata/remove-duplicates-from-list
 
 8 kyu https://www.codewars.com/kata/sum-of-positive
@@ -48,6 +50,7 @@ Array
 
 
 Object
+
 6 kyu https://www.codewars.com/kata/count-characters-in-your-string
 
 
